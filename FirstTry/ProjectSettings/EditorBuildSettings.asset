@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Sceans/ModularSchoolEnvironmentMath.unity
+    guid: 97d118e3bebc3254ab837df7ee81ecd9
+  - enabled: 1
+    path: Assets/MAINMAIN/MathLevels.unity
+    guid: e290710b02cb9f64486ed08dcf80c0a9
+  - enabled: 1
+    path: Assets/Sceans/ModularSchoolEnvironmentMath.unity
+    guid: 97d118e3bebc3254ab837df7ee81ecd9
+  - enabled: 1
+    path: Assets/LvlMath1.unity
+    guid: 299145f39bbd9b54284cc7df439f8c65
+  - enabled: 1
+    path: Assets/LvlMath2.unity
+    guid: b1a19c082ff4d2743ab6f21cd57233a5
+  - enabled: 1
+    path: Assets/LvlMath3.unity
+    guid: 0cbdc531fda788543815d71f83b6bc5c
+  - enabled: 1
+    path: Assets/LvlMath4.unity
+    guid: cdc4e23db9014484588b417ba6feadc3
+  - enabled: 1
+    path: Assets/LvlMath5.unity
+    guid: 82e8e32c633a3aa4e9036cb9064c9c94
+  - enabled: 1
+    path: Assets/LvlMath6.unity
+    guid: 3461f98849269af4fbaced76470dab40
+  - enabled: 1
+    path: Assets/LvlMath7.unity
+    guid: 258c63f01b903fa44b902fc9d0b305c9
+  - enabled: 1
+    path: Assets/LvlMath8.unity
+    guid: 154189ff996f0fb47a486a228248da46
+  - enabled: 1
+    path: Assets/LvlMath9.unity
+    guid: fb8b69d35feb83341928761970217d88
+  - enabled: 1
+    path: Assets/LvlMath10.unity
+    guid: c53ff1ad9fb4144449905e588f334f36
+  - enabled: 1
+    path: Assets/MAINMAIN/ObuchalkaMath.unity
+    guid: e105a74cac1393f48927df367b84fdb4
+  - enabled: 1
+    path: Assets/LvlMath1Obuchalka.unity
+    guid: 904642ca0f8848343aee6cdeb10ecbb4
+  - enabled: 1
+    path: Assets/ModularSchoolEnvironment.unity
+    guid: c052b1bb0926cb5499f0f7f5f3bc7d1c
+  - enabled: 1
+    path: Assets/ModularSchoolEnvironmentRus.unity
+    guid: 01299032cc8220644920e64a60c76760
+  - enabled: 1
+    path: Assets/ModularSchoolEnvironmentGeography.unity
+    guid: a2d5d5d8125859c48b79d8703a98f29e
+  - enabled: 1
+    path: Assets/ModularSchoolEnvironmentHistory.unity
+    guid: 14553275ee7e9644385808609b473e05
+  - enabled: 1
+    path: Assets/ModularSchoolEnvironmentEng.unity
+    guid: 01d35f8f9822b5d45a7912a39ab00004
+  - enabled: 1
+    path: Assets/ModularSchoolEnvironmentLit.unity
+    guid: 56493749932168647b3188cc5a265a14
+  - enabled: 1
+    path: Assets/ModularSchoolEnvironmentXim.unity
+    guid: 601137d88d8c9c24fbf221bb0fea2235
+  - enabled: 1
+    path: Assets/GeographyLevels.unity
+    guid: 9b5e3f4ea6c81d34686075a1a3e78d17
+  - enabled: 1
+    path: Assets/LvlGeogr1.unity
+    guid: 9b1dec700485e0a4abdd71ebb1dc7562
+  - enabled: 1
+    path: Assets/ObuchalkaGeogrf 110.unity
+    guid: 67879cec7481afe4487c9db55eae2829
+  - enabled: 1
+    path: Assets/ObuchalkaGeogrf.unity
+    guid: 5cdd6bdc9efcfd347a7d1a04f6d6ad85
+  - enabled: 1
+    path: Assets/LvlMath1Answers.unity
+    guid: 0cb850af60e28154bb70ab2cbcd0c773
+  - enabled: 1
+    path: Assets/LvlMath2Answers 1.unity
+    guid: b9fe33110a8f5ef44a74d29129b50993
+  - enabled: 1
+    path: Assets/LvlMath3Answers 2.unity
+    guid: 9339840b5ee3b994b9c99ec89d8d4a06
+  - enabled: 1
+    path: Assets/HistoryLevels.unity
+    guid: f110b3fd6b2fe204c83bed3bb79a4ad2
+  - enabled: 1
+    path: Assets/LvlHistory1.unity
+    guid: 2d75cbaa6af453f42b766a5b28072758
+  m_configObjects: {}
